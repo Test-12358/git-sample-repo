@@ -1,3 +1,4 @@
+prints the status of git repository
 package com.letskodeit.utilities;
 
 import com.google.common.collect.Ordering;
